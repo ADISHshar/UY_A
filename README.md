@@ -45,7 +45,6 @@ Outside Play mode, select **GENERATE COMPLETE EDITABLE LEVEL** to apply changes,
 | Path | Contents |
 | --- | --- |
 | `Assets/Scenes/TreasureHunt.unity` | Main game scene; enabled in the build scene list |
-| `Assets/Scenes/SampleScene.unity` | Additional sample scene |
 | `Assets/TreasureHunt/Scripts/` | Game state, player, camera, maze, guards, hazards, UI, and audio |
 | `Assets/TreasureHunt/Editor/` | Maze designer and scene setup/review tools |
 | `Assets/TreasureHunt/Resources/` | Maze settings and audio bank assets |
