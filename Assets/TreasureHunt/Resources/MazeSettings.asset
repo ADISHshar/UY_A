@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d446d71deada354fb8d693232e1eb14, type: 3}
+  m_Name: MazeSettings
+  m_EditorClassIdentifier: Assembly-CSharp::TreasureHunt.MazeSettings
+  width: 11
+  height: 11
+  seed: 921256628
+  cellSize: 4
+  traps: 10
+  guards: 3
+  lives: 3
+  sightRange: 7
+  sightAngle: 65
+  doors: 3
+  sprintHearingRange: 5.5
+  investigateSeconds: 4
+  lasers: 6
+  wallSpikes: 5
+  wallSpikeCycle: 2.1
+  collapsingTiles: 5
+  spikeCycle: 4.2
+  spikeWarning: 0.65
+  collapseDelay: 1.2
+  tileRespawnDelay: 4
+  damageImmunity: 1.25
