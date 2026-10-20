@@ -63,3 +63,11 @@ Outside Play mode, select **GENERATE COMPLETE EDITABLE LEVEL** to apply changes,
 ## Gameplay verification
 
 The project includes a runtime verification routine in `HuntVerification.cs`. Launch a built player with the `-huntSmokeTest` argument to invoke it. Inspect the player log for `HUNT CHECK PASSED` and `HUNT CHECK FAILED` messages. The routine also writes review screenshots beside the build's data folder.
+
+Copyright © 2026 Adish Sharma. All rights reserved.
+
+This project is proprietary. No individual, company, or organization is granted permission to use, copy, modify, distribute, sublicense, sell, or incorporate this project or any portion of its original code or assets into another product, service, or internal tool without prior written permission from Adish Sharma.
+
+Public availability is solely for portfolio viewing and evaluation and does not grant permission for commercial or organizational use.
+
+These restrictions do not override rights required by applicable law or GitHub’s Terms of Service. Third-party components remain subject to their respective licenses.
